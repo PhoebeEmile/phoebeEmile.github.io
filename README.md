@@ -1,4 +1,4 @@
-<!--comment-->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -469,7 +469,7 @@
             </div>
             <div class="profile-img">
                <div class="placeholder">
-                  <img src="me.jpg" alt="Phoebe Emile">
+                  <img src="[me.jpg](https://github.com/PhoebeEmile/phoebeEmile.github.io/blob/main/me.jpg)" alt="Phoebe Emile">
               </div>
             </div>
             <div class="about-content">
